@@ -70,3 +70,8 @@
 - [ifreeicloud.co.uk](https://www.ifreeicloud.co.uk) - IMIE checker, which will return some handset details
 - [wikipedia.org](https://www.wikipedia.org) - details of different countries' conventions or style for writing telephone numbers
 - [wikitravel.org](https://www.wikitravel.org) - details of different countries' conventions or style for writing telephone numbers
+
+
+
+## 🔗 Related Projects
+- [Software Resources](https://github.com/poisk-ls/Software-Resources)
